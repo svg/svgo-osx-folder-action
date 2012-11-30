@@ -10,3 +10,5 @@
 
 4. drag-n-drop `.svg`-files to this folder
 5. hurray, your files are optimized!
+
+![](//mc.yandex.ru/watch/18561160)
