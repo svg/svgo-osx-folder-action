@@ -1,4 +1,5 @@
 ## OS X Folder Action for SVGO, v0.0.1
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/svg/svgo-osx-folder-action?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 1. install [SVGO](https://github.com/svg/svgo)
 2. `curl -sS https://raw.github.com/svg/svgo-osx-folder-action/master/install.sh | sh`
